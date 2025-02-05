@@ -53,10 +53,6 @@ The **Mean Teacher approach** yielded the best performance, demonstrating the be
 - **Overfitting on small labeled data:** Used strong augmentations and dropout.
 - **High computational cost:** Optimized with mixed-precision training.
 
-## 📁 Repository Structure
-
-📂 semi-supervised-weed-detection │── 📁 data_processing # Scripts for data loading & augmentation │── 📁 models # Model architectures & weights │── 📁 training # Training scripts │── 📁 inference # Inference scripts │── 📄 train.py # Main training script │── 📄 test.py # Evaluation script │── 📄 requirements.txt # Dependencies │── 📄 README.md # Project documentation
-
 
 ## 🚀 How to Run
 
