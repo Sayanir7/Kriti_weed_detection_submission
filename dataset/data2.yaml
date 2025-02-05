@@ -1,0 +1,13 @@
+train: 
+  - C:/Users/sayan/Documents/Kriti@3/dataset/images/train/ 
+  - C:/Users/sayan/Documents/Kriti@3/dataset/images/val   # Path to training images 
+  - C:/Users/sayan/Documents/Kriti@3/dataset/images/aug_images/   # Path to training images 
+  - C:/Users/sayan/Documents/Kriti@3/dataset/images/unlabelled/ # Path to training images 
+
+
+val: C:/Users/sayan/Documents/Kriti@3/dataset/images/test/      # Path to validation images
+# test: dataset/images/test/    # Path to test images
+
+nc: 2  # Number of classes (weed, sesame)
+
+names: ["weed", "crop"]
