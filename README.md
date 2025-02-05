@@ -55,3 +55,13 @@ The **Mean Teacher approach** yielded the best performance, demonstrating the be
 
 ## 📁 Repository Structure
 
+📂 semi-supervised-weed-detection │── 📁 data_processing # Scripts for data loading & augmentation │── 📁 models # Model architectures & weights │── 📁 training # Training scripts │── 📁 inference # Inference scripts │── 📄 train.py # Main training script │── 📄 test.py # Evaluation script │── 📄 requirements.txt # Dependencies │── 📄 README.md # Project documentation
+
+
+## 🚀 How to Run
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Sayanir7/Kriti_weed_detection_submission.git
+cd Kriti_weed_detection_submission
+
