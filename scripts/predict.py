@@ -5,7 +5,7 @@ import glob
 # Load the trained model
 model = YOLO("C:/Users/sayan/Documents/Kriti@3/runs/weed_detection/weights/best.pt")
 
-CONF_THRESHOLD = 0.65
+CONF_THRESHOLD = 0.80
 
 # Paths
 image_dir = "C:/Users/sayan/Documents/Kriti@3/dataset/images/unlabelled/"
